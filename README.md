@@ -12,5 +12,3 @@
 - [LinkedIn](https://www.linkedin.com/in/jrkitt/)
 - [Email](mailto:kittichdev@example.com)
 
-## 📈 สถิติ GitHub ของผม
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrKitt&show_icons=true&theme=radical)
