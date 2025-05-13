@@ -1,11 +1,43 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrkitt&label=Profile%20views&color=0e75b6&style=flat" alt="jrkitt" /> </p>
+<h1 align="center">Hi, I'm Kittichai Raksawong 👋</h1>
+<p align="center">aka <strong>jrKitt</strong> — Developer | Linux Enthusiast | Embedded & Backend Lover</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrkitt" alt="jrkitt" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🔧 Technologies & Tools
+
+- 💻 Programming: `C`, `JavaScript`, `C++`, `ASM`
+- 🔌 Embedded: `Linux Kernel`, `Devicetree`, `u-boot`
+- 🌐 Web: `Node.js`, `React`, `Next.js`, `TailwindCSS`
+- 🐧 OS: `Arch Linux`, `Ubuntu`, `WSL`
+- 🧰 Tools: `Git`, `Docker`
+
+---
+
+### ⏱️ Weekly Coding Stats (via [WakaTime](https://wakatime.com/@jrKitt))
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 📝 *Auto-updated daily by GitHub Actions*
+
+---
+
+### 📂 Projects
+
+- [`crownlte-linux-os`](https://github.com/jrKitt/crownlte-linux-os) – Custom Linux for Samsung A21
+- [`blueskychan.dev`](https://github.com/jrKitt/blueskychan.dev) – Web development tools & utilities
+- [`android_kernel_samsung_a21`](https://github.com/jrKitt/android_kernel_samsung_a21) – Kernel builds for dev board
+
+---
+
+### 📫 Contact
+
+- ✉️ Email: `jrkitt.dev@gmail.com`
+- 🌐 Blog/Portfolio: [https://jrkitt.dev](https://jrkitt.dev)
+- 💬 LINE ID: `kittichai-r`
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jrKitt&label=Profile+Views" alt="Profile Views" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrkitt&show_icons=true&locale=en&layout=compact" alt="jrkitt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrkitt&show_icons=true&locale=en" alt="jrkitt" /></p>
