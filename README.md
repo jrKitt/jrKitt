@@ -1,6 +1,5 @@
-<h1 align="center">👨‍💻 Welcome to my GitHub profile page!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="welcome gif">
+  <img src="https://giffiles.alphacoders.com/221/221799.gif" style="width:100%" alt="welcome gif">
 </p>
 
 ## 🙋‍♂️ About me!
@@ -33,11 +32,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jrKitt&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrKitt&layout=compact&theme=radical)
 
----
 
-## 📊 Weekly Development Breakdown
-> _Powered by [Wakatime](https://wakatime.com)_
 
