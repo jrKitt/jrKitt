@@ -18,7 +18,7 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 - **[E-Ticket SMOCP](https://github.com/jrKitt/e-ticket-smocp)** - Electronic ticketing system for events
 - **[Clubs Check-in](https://github.com/jrKitt/clubs-checkin)** - Attendance tracking system for club activities
 - **[JaiMaReawReaw QR Payment](https://github.com/jrKitt/JaiMaReawReawQrPayment)** - QR code-based payment solution
-- **[EDS](https://github.com/jrKitt/EDS)** - Enterprise data system for business analytics
+- **[EDS](https://github.com/jrKitt/EDS)** - Education System for School
 - **[Blind Help UI](https://github.com/jrKitt/BlindHelpUI)** - Accessible user interface for visually impaired users
   
 <p align="center">
