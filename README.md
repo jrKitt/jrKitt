@@ -6,12 +6,12 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 
 ## 💻Tech stacks
 
-**General programming:** JavaScript, TypeScript, Python, HTML5, CSS3  
+**General programming:** JavaScript, TypeScript, Python
 **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
-**Web frameworks:** React, Next.js, Tailwind CSS, Redux  
-**Backend:** Node.js, Express, Django, GraphQL  
+**Web frameworks:** React, Next.js, Tailwind CSS, Redux, Solid.js, Astro.js  
+**Backend:** Node.js, Express, Elysia.js, Django, GraphQL  
 **DevOps:** Docker, AWS, Vercel, CI/CD  
-**Tools:** Git, VS Code, Figma, Postman, Jest
+**Tools:** Git, VS Code, Figma, Postman
 
 ## 📂Latest projects
 
