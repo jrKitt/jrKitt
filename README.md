@@ -1,10 +1,10 @@
-## 🤗About me
+## 🤗 About me
 
-Hi, I'm Honda. I'm currently working as a Junior Full Stack Developer (Part-time) at **[APSTH](https://www.apsth.com/)** and I'm working as Web Developer at **[STUDENT UNION | College Of Computing KKU](https://www.smocp.com/)**
+Hi, I'm Honda. I'm currently working as a Junior Full Stack Developer (Part-time) at [APSTH](https://www.apsth.com/) and I'm working as Web Developer at [STUDENT UNION | College Of Computing KKU](https://www.smocp.com/)
 
 Beyond my primary role, I also collaborate with various companies as a freelance developer, helping them bring their web applications to life. I love to experiment with new web technologies by building hands-on projects, with a special focus on modern stacks like Next.js and Tailwind CSS.
 
-## 💻Tech stacks
+## 💻 Tech stacks
 
 **General programming:** JavaScript, TypeScript, Python
 **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
@@ -13,7 +13,7 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 **DevOps:** Docker, AWS, Vercel, CI/CD  
 **Tools:** Git, VS Code, Figma, Postman
 
-## 📂Latest projects
+## 📂 Latest projects
 
 - **[E-Ticket SMOCP](https://github.com/jrKitt/e-ticket-smocp)** - Electronic ticketing system for events
 - **[Clubs Check-in](https://github.com/jrKitt/clubs-checkin)** - Attendance tracking system for club activities
