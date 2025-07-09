@@ -1,6 +1,6 @@
 ## 🤗About me
 
-Hi, I'm Honda. I'm currently working as a Junior Full Stack Developer (Part-time) at **[APSTH](https://www.apsth.com/)**
+Hi, I'm Honda. I'm currently working as a Junior Full Stack Developer (Part-time) at **[APSTH](https://www.apsth.com/)** and I'm working as Web Developer at **[STUDENT UNION | College Of Computing- KKU](https://www.smocp.com/)**
 
 Beyond my primary role, I also collaborate with various companies as a freelance developer, helping them bring their web applications to life. I love to experiment with new web technologies by building hands-on projects, with a special focus on modern stacks like Next.js and Tailwind CSS.
 
