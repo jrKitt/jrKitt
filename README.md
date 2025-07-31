@@ -17,7 +17,6 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 - **[Clubs Check-in](https://github.com/jrKitt/clubs-checkin)** - Attendance tracking system for club activities
 - **[JaiMaReawReaw QR Payment](https://github.com/jrKitt/JaiMaReawReawQrPayment)** - QR code-based payment solution
 - **[EDS](https://github.com/jrKitt/EDS)** - Education System for School
-- **[Blind Help UI](https://github.com/jrKitt/BlindHelpUI)** - Accessible user interface for visually impaired users
   
 <p align="center">
   <img src="https://giffiles.alphacoders.com/221/221799.gif" alt="welcome banner" width="600">
