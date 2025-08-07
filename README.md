@@ -19,5 +19,5 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 - **[EDS](https://github.com/jrKitt/EDS)** - Education System for School
   
 <p align="center">
-  <img src="https://tenor.com/view/doro-dorothy-nikke-gif-3492096921929364235" alt="welcome banner" width="600">
+  <img src="https://media.tenor.com/Ce6USnj-dhAAAAAM/scarseven.gif" alt="welcome banner" width="600">
 </p>
