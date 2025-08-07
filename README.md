@@ -2,7 +2,7 @@ Hi, I'm Honda. I'm currently working as a Junior Full Stack Developer (Part-time
 
 Beyond my primary role, I also collaborate with various companies as a freelance developer, helping them bring their web applications to life. I love to experiment with new web technologies by building hands-on projects, with a special focus on modern stacks like Next.js and Tailwind CSS.
 
-## 💻 Tech stacks
+## Tech stacks
 
 **General programming:** JavaScript, TypeScript, Python
 **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
@@ -11,7 +11,7 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 **DevOps:** Docker, AWS, Vercel, CI/CD  
 **Tools:** Git, VS Code, Figma, Postman
 
-## 📂 Latest projects
+## Latest projects
 
 - **[E-Ticket SMOCP](https://github.com/jrKitt/e-ticket-smocp)** - Electronic ticketing system for events
 - **[Clubs Check-in](https://github.com/jrKitt/clubs-checkin)** - Attendance tracking system for club activities
@@ -19,5 +19,5 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 - **[EDS](https://github.com/jrKitt/EDS)** - Education System for School
   
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/221/221799.gif" alt="welcome banner" width="600">
+  <img src="https://tenor.com/view/doro-dorothy-nikke-gif-3492096921929364235" alt="welcome banner" width="600">
 </p>
