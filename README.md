@@ -7,7 +7,7 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 **General programming:** JavaScript, TypeScript, Python
 **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
 **Web frameworks:** React, Next.js, Tailwind CSS, Redux, Solid.js, Astro.js  
-**Backend:** Node.js, Express, Elysia.js, Django, GraphQL  
+**Backend:** Node.js, Express, Elysia.js, GraphQL  
 **DevOps:** Docker, AWS, Vercel, CI/CD  
 **Tools:** Git, VS Code, Figma, Postman
 
