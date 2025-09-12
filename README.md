@@ -16,6 +16,3 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 - [E-Ticket SMOCP](https://github.com/jrKitt/e-ticket-smocp) : Electronic ticketing system for events
 - [JaiMaReawReaw QR Payment](https://github.com/jrKitt/JaiMaReawReawQrPayment) : QR code-based payment solution
   
-<p align="center">
-  <img src="https://media.tenor.com/Ce6USnj-dhAAAAAM/scarseven.gif" alt="welcome banner" width="600">
-</p>
