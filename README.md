@@ -11,8 +11,5 @@ Beyond my primary role, I also collaborate with various companies as a freelance
 **DevOps:** Docker, AWS, Vercel, CI/CD  
 **Tools:** Git, VS Code, Figma, Postman
 
-## Latest projects
 
-- [E-Ticket SMOCP](https://github.com/jrKitt/e-ticket-smocp) : Electronic ticketing system for events
-- [JaiMaReawReaw QR Payment](https://github.com/jrKitt/JaiMaReawReawQrPayment) : QR code-based payment solution
   
