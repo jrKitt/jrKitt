@@ -20,7 +20,7 @@ I'm Kittichai Raksawong (Honda), currently working as a **Junior Full Stack Deve
 ## Latest Projects
 
 - [KKU Valonteer](https://github.com/jrKitt/KKUVALONTEER) - Web Application designed to manage and promote volunteer activities within the university, focusing on student development outside the classroom and linking to scholarship requirements.
-- [DLT Khon Kaen 2] - Web Application for Provincial Land Transport Office of Khonkaen 2
+- [DLT Khon Kaen 2](https://github.com/jrKitt/DLT_KhonKaen) - Web Application for Provincial Land Transport Office of Khonkaen 2
 - [E-Ticket SMOCP](https://github.com/jrKitt/e-ticket-smocp) — Electronic ticketing system for events  
 - [Clubs Check-in](https://github.com/jrKitt/clubs-checkin) — Attendance tracking system for club activities  
 - [JaiMaReawReaw QR Payment](https://github.com/jrKitt/JaiMaReawReawQrPayment) — QR code-based payment solution  
