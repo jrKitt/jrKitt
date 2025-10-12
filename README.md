@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Kittichai Raksawong</h1>
----
 
 ## About Me
 
