@@ -34,7 +34,7 @@ I'm Kittichai Raksawong (Honda), currently working as a **Junior Full Stack Deve
 - Junior Full Stack Developer (Part-time) at [APSTH](https://www.apsth.com/)  
 - Web Developer and IT Support (Internship) at [IT NETWORK](https://www.techone3s.com/)  
 - Web Developer at [Student Union | College of Computing, KKU](https://www.smocp.com/)  
-- Freelance Developer — Collaborating with startups and organizations on web-based systems  
+- Freelance Developer — Collaborating with startups and organizations on web-based systems.
 
 ---
 
