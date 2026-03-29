@@ -23,15 +23,16 @@ I currently work as a **Junior Full Stack Developer (Part-time)** at **APSTH** a
 - **DevOps & Cloud:** Docker, AWS, Vercel, CI/CD
 - **Tools:** Git, VS Code, Figma, Postman
 
-## Selected Projects
+## Stuff I made
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [KKUVALONTEER](https://github.com/jrKitt/KKUVALONTEER) | University volunteer activity platform supporting student development and scholarship-related participation workflows. | Laravel, Blade, MySQL |
-| [MobiStock](https://github.com/jrKitt/MobiStock) | DBMS-focused inventory and stock management project built with a modern TypeScript stack. | TypeScript, Web App |
-| [SMOCP.COM](https://github.com/jrKitt/SMOCP.COM) | Student organization web platform for communication and operational workflows. | TypeScript, Full Stack |
-| [ignite](https://github.com/jrKitt/ignite) | Lightweight Go hot-reload and live-reload utility for faster local development loops. | Go |
-| [JaiMaReawReawQrPayment](https://github.com/jrKitt/JaiMaReawReawQrPayment) | QR payment web application for streamlined transaction flow. | JavaScript |
+- [COMSCIKKU](https://github.com/jrKitt/comscikku) ([Live](https://comscikku.dev)) - Community web platform for Computer Science developers at KKU.
+- [MobiStock](https://github.com/jrKitt/MobiStock) ([Live](https://mobistock.jrkitt.com)) - DBMS-focused inventory and stock management web app.
+- [SMOCP.COM](https://github.com/jrKitt/SMOCP.COM) ([Live](https://smocpcom.vercel.app)) - Student organization web platform for communication and operations.
+- [SMOCP Eticket 2025](https://github.com/jrKitt/e-ticket-smocp) ([Live](https://e-ticket.smocp.com)) - PWA e-ticket platform for university event workflows.
+- [jrKitt's Lab](https://github.com/jrKitt/files-storage) ([Live](https://clouds.jrkitt.com/)) - Cloud-style file storage web application.
+- [JaiMaReawReawQrPayment](https://github.com/jrKitt/JaiMaReawReawQrPayment) ([Live](https://jmrr.jrkitt.com)) - QR payment web app for streamlined transaction flow.
+- [SMOCP Order](https://github.com/jrKitt/orders.smocp.com) ([Live](https://orders-tawny.vercel.app)) - Online ordering system for student organization operations.
+- [shorturls](https://github.com/jrKitt/shorturls) ([Live](https://short-rust.vercel.app)) - URL shortener web app built for quick link sharing.
 
 ## Experience
 
@@ -45,14 +46,6 @@ I currently work as a **Junior Full Stack Developer (Part-time)** at **APSTH** a
 - Designing maintainable backend architecture with Express and Elysia
 - Improving deployment workflows with Vercel and DigitalOcean
 - Building accessible interfaces that follow a11y best practices
-
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrKitt&show_icons=true&rank_icon=github&hide_border=true" alt="jrKitt GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrKitt&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 
 ## Contact
 
