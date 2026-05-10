@@ -21,7 +21,7 @@ I currently work as a **Junior Full Stack Developer (Part-time)** at **APSTH** a
 - **Backend:** Node.js, Express, Elysia.js, Django, GraphQL
 - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
 - **DevOps & Cloud:** Docker, AWS, Vercel, CI/CD
-- **Tools:** Git, VS Code, Figma, Postman
+- **Tools:** Git, Git Lab, PGAdmin, DBeaver, etc.
 
 ## Stuff I made
 
