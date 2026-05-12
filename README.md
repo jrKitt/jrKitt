@@ -1,7 +1,4 @@
 <h1 align="center">Kittichai Raksawong</h1>
-<p align="center">
-  Junior Full Stack Developer (Part-time) at <a href="https://www.apsth.com/">APSTH</a> · Freelance Web Developer
-</p>
 
 <p align="center">
   <a href="https://github.com/jrKitt"><img src="https://img.shields.io/badge/GitHub-jrKitt-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
