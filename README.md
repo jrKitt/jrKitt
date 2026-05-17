@@ -52,5 +52,5 @@ I currently work as a **Junior Full Stack Developer (Part-time)** at **APSTH** a
 - X (Twitter): [https://twitter.com/callmeberryii](https://twitter.com/callmeberryii)
 
 <p align="center">
-  <img src="https://img5.pic.in.th/file/secure-sv1/64a4bb8cd0e2bbc28bf6ffa779083795-1.gif" alt="profile banner" />
+  <img src="https://giffiles.alphacoders.com/221/221795.gif" alt="profile banner" />
 </p>
