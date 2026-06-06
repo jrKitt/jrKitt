@@ -1,10 +1,10 @@
 <h1 align="center">Kittichai Raksawong</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jrKitt"><img src="https://img.shields.io/badge/GitHub-jrKitt-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://jrkitt.com/"><img src="https://img.shields.io/badge/Portfolio-jrkitt.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jrKitt"><img src="https://img.shields.io/badge/LinkedIn-jrKitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+</p> -->
 
 ## Professional Summary
 
