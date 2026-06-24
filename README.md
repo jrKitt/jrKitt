@@ -25,6 +25,7 @@ I currently work as a **Junior Full Stack Developer (Part-time)** at **APSTH** a
 - [COMSCIKKU](https://github.com/jrKitt/comscikku) ([Live](https://comscikku.dev)) - Community web platform for Computer Science developers at KKU.
 - [MobiStock](https://github.com/jrKitt/MobiStock) ([Live](https://mobistock.jrkitt.com)) - DBMS-focused inventory and stock management web app.
 - [SMOCP.COM](https://github.com/jrKitt/SMOCP.COM) ([Live](https://smocpcom.vercel.app)) - Student organization web platform for communication and operations.
+- [Nurse Plus](https://github.com/B-bsw/nurse-plus) - Nurse scheduling and management platform for hospital operations.
 - [SMOCP Eticket 2025](https://github.com/jrKitt/e-ticket-smocp) ([Live](https://e-ticket.smocp.com)) - PWA e-ticket platform for university event workflows.
 - [jrKitt's Lab](https://github.com/jrKitt/files-storage) ([Live](https://clouds.jrkitt.com/)) - Cloud-style file storage web application.
 - [JaiMaReawReawQrPayment](https://github.com/jrKitt/JaiMaReawReawQrPayment) ([Live](https://jmrr.jrkitt.com)) - QR payment web app for streamlined transaction flow.
@@ -37,6 +38,11 @@ I currently work as a **Junior Full Stack Developer (Part-time)** at **APSTH** a
 - **Web Developer & IT Support (Internship)** at [IT NETWORK](https://www.techone3s.com/)
 - **Web Developer** at [Student Union, College of Computing, KKU](https://www.smocp.com/)
 - **Freelance Developer** for startup and organization web systems
+
+## Project Management
+
+- **Project Manager** — [SMOCP.COM](https://github.com/jrKitt/SMOCP.COM) — Student organization web platform for communication and operations
+- **Project Manager** — [Nurse Plus](https://github.com/B-bsw/nurse-plus) — Nurse scheduling and management platform for hospital operations
 
 ## Current Focus
 
