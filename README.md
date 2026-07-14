@@ -104,15 +104,6 @@ IT NETWORK is an Udon Thani–based IT solutions company providing IT equipment 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrKitt&show_icons=true&theme=default&hide_border=true" alt="jrKitt's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrKitt&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
 ## Contact
 
 - **Portfolio:** [https://jrkitt.com](https://jrkitt.com)
